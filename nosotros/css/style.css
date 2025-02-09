@@ -9,10 +9,6 @@
 }
 
 
-
-
-
-
 /*Contenedor Nosotros*/
 .contenedorimagen1{
    height: 500px;
@@ -43,8 +39,13 @@
    text-align: center;
 }
 
-
-
+/*Contenedor Certificaciones*/
+.seccioncertificaciones h2{
+   font-family: 'Source Sans Pro', sans-serif;
+   color:rgb(29, 38, 48);
+   margin: 30px;
+   text-align: center;
+}
 
 
 /*footer*/
