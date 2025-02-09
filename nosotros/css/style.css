@@ -40,12 +40,26 @@
 }
 
 /*Contenedor Certificaciones*/
-.seccioncertificaciones h2{
+.seccioncertificaciones {
+   padding: 20px;
+ }
+ 
+ .seccioncertificaciones h2 {
+   margin-bottom: 20px;
+ }
+ 
+ .seccioncertificaciones .col-md-6 img {
+   margin-top: 20px;
+   max-width: 100%;
+ }
+
+ .seccioncertificaciones h2{
    font-family: 'Source Sans Pro', sans-serif;
    color:rgb(29, 38, 48);
    margin: 30px;
    text-align: center;
 }
+ 
 
 
 /*footer*/
